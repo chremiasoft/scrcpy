@@ -1,4 +1,4 @@
-# scrcpy (v1.19)
+# scrcpy (v1.19) & wifi module (v0.0.5.0) Windows
 
 [Read in another language](#translations)
 
@@ -41,7 +41,7 @@ control it using keyboard and mouse.
 ### Summary
 
  - Linux: `apt install scrcpy`
- - Windows: [download][direct-win64]
+ - Windows: [download][direct-win64] - [wifi module download](https://github.com/chremiasoft/scrcpy/releases/download/v1.19/scrcpy-wifi-v1.19.zip)
  - macOS: `brew install scrcpy`
 
 Build from sources: [BUILD] ([simplified process][BUILD_simple])
