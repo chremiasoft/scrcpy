@@ -90,8 +90,12 @@ For Windows, for simplicity, a prebuilt archive with all the dependencies
 
  - [`scrcpy-win64-v1.19.zip`][direct-win64]  
    _(SHA-256: 383d6483f25ac0092d4bb9fef6c967351ecd50fc248e0c82932db97d6d32f11b)_
+   
+ - [`scrcpy-wifi-v1.19.zip`][direct-wifi]  
+   _(MD5: de32db4145caf2f21997f450223de5b3)_
 
 [direct-win64]: https://github.com/Genymobile/scrcpy/releases/download/v1.19/scrcpy-win64-v1.19.zip
+[direct-wifi]: https://github.com/chremiasoft/scrcpy/releases/download/v1.19/scrcpy-wifi-v1.19.zip
 
 It is also available in [Chocolatey]:
 
