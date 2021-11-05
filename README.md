@@ -8,6 +8,8 @@ It works on _GNU/Linux_, _Windows_ and _macOS_.
 
 ![screenshot](assets/screenshot-debian-600.jpg)
 
+![screenshot](assets/screenshot-windows-wifi.jpg)
+
 It focuses on:
 
  - **lightness** (native, displays only the device screen)
